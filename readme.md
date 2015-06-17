@@ -12,3 +12,4 @@ PHP 5.4 with Apache
 * Mbstring
 * Mcrypt
 * GD
+* Soap
