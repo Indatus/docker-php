@@ -13,3 +13,11 @@ PHP 5.4 with Apache
 * Mcrypt
 * GD
 * Soap
+
+PHP 5.5 with Apache
+
+* PDO_MySQL
+* Mbstring
+* Mcrypt
+* GD
+* Soap
